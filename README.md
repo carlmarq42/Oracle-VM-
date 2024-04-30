@@ -3,7 +3,10 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Orchestrated the creation of a multifaceted virtual environment using Oracle VM VirtualBox, meticulously configuring virtual machines to host diverse operating systems including Kali Linux, Windows Server, Windows ISO, and Ubuntu Server.
+Tailored CPU and memory settings on each virtual machine, leveraging advanced configuration options to fine-tune resource allocation, ensured operation of resource-intensive applications, and enhanced efficiency within the virtualized ecosystem.
+Established and configuring Active Directory services, industry best practices established centralized identity management, streamlining user authentication, and policy enforcement, enhancing security posture and administrative efficiency network-wide.
+
 <br />
 
 
