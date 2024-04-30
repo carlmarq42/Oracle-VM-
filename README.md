@@ -3,9 +3,8 @@
 
 
 <h2>Description</h2>
-Orchestrated the creation of a multifaceted virtual environment using Oracle VM VirtualBox, meticulously configuring virtual machines to host diverse operating systems including Kali Linux, Windows Server, Windows ISO, and Ubuntu Server.
-Tailored CPU and memory settings on each virtual machine, leveraging advanced configuration options to fine-tune resource allocation, ensured operation of resource-intensive applications, and enhanced efficiency within the virtualized ecosystem.
-Established and configuring Active Directory services, industry best practices established centralized identity management, streamlining user authentication, and policy enforcement, enhancing security posture and administrative efficiency network-wide.
+ 
+ Set up a complex virtual environment using Oracle VM VirtualBox. I  configured virtual machines to run different operating systems like Kali Linux, Windows Server, Windows ISO, and Ubuntu Server. I adjusted CPU and memory settings for each virtual machine to make sure they could handle demanding applications efficiently. I also installed and set up Active Directory services, which helped manage user identities centrally. This improved security and made it easier to enforce policies across the network.
 
 <br />
 
