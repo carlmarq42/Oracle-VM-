@@ -18,15 +18,15 @@
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Set up Kali Linux, Windows Server, Windows ISO, and Ubuntu Server : <br/>
 <img src="https://github.com/carlmarq42/Azure-Sentinel-Project/assets/165202865/cdb00bc1-161b-44d6-bddb-a67098554e93" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Adjust CPU and memory settings:  <br/>
 <img src="https://github.com/carlmarq42/Azure-Sentinel-Project/assets/165202865/a69e891f-13bf-4cea-9a5a-63d03e2595b2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Connect all VM's and Severs : <br/>
 <img src="https://github.com/carlmarq42/Azure-Sentinel-Project/assets/165202865/1d9ec78d-1efd-4c4b-96f7-aa90f44462b7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
