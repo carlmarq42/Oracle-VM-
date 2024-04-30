@@ -15,8 +15,9 @@
 
 - <b>Oracle VM VirtualBox</b>
 - <b>Kali Linux</b>
-- <b>Windows Server</b>
-- <b>Windows ISO</b>
+- <b>Windows ISO Server 2022</b>
+- <b>Windows 10 ISO</b>
+- <b>Ubuntu Server</b>
 
 <h2>Project walk-through:</h2>
 
