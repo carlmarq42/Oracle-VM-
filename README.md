@@ -13,7 +13,10 @@
 
 <h2>Environments & Tools Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Oracle VM VirtualBox</b>
+- <b>Kali Linux</b>
+- <b>Windows Server</b>
+- <b>Windows ISO</b>
 
 <h2>Project walk-through:</h2>
 
