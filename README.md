@@ -19,7 +19,7 @@
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/carlmarq42/Azure-Sentinel-Project/assets/165202865/cdb00bc1-161b-44d6-bddb-a67098554e93" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
